@@ -15,3 +15,6 @@
 0.0.0.0 scontent-msp1-1.cdninstagram.com
 0.0.0.0 instagram.c10r.facebook.com
 0.0.0.0 graph.instagram.com
+0.0.0.0 scontent-syd2-1.cdninstagram.com
+0.0.0.0 instagram.fsyd3-1.fna.fbcdn.net
+0.0.0.0 applink.instagram.com
