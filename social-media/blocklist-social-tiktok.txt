@@ -35,4 +35,17 @@
 0.0.0.0 log2.musical.ly
 0.0.0.0 api2-21-h2.musical.ly
 0.0.0.0 musically.ly
-
+0.0.0.0 pull-f5-sg01.tiktokcdn.com
+0.0.0.0 pull-rtmp-l1-sg01.tiktokcdn.com
+0.0.0.0 pull-cmaf-f16-ab.tiktokcdn.com
+0.0.0.0 pull-hls-f16-sg01.tiktokcdn.com
+0.0.0.0 pull-hls-l1-sg01.tiktokcdn.com
+0.0.0.0 pull-hls-l11-sg01.tiktokcdn.com
+0.0.0.0 api19-normal-c-alisg.tiktokv.com
+0.0.0.0 api19-core-c-alisg.tiktokv.com
+0.0.0.0 pull-flv-l1-sg01.tiktokcdn.com
+0.0.0.0 pull-flv-l11-sg01.tiktokcdn.com
+0.0.0.0 pull-rtmp-l11-sg01.tiktokcdn.com
+0.0.0.0 pull-cmaf-f16-sg01.tiktokcdn.com
+0.0.0.0 p16-sign-va.tiktokcdn.com
+0.0.0.0 p16-sign-sg.tiktokcdn.com
