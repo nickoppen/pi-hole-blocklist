@@ -14,3 +14,6 @@
 0.0.0.0 faq.whatsapp.com
 0.0.0.0 blog.whatsapp.com
 0.0.0.0 translate.whatsapp.com
+0.0.0.0 g.whatsapp.net
+0.0.0.0 static.whatsapp.net
+0.0.0.0 mmx-ds.cdn.whatsapp.net
